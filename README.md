@@ -188,4 +188,4 @@ Platform: AI-Magnet – Local Business Expert
 
 Documentation Repository: Product planning, architecture, research, and design
 
-Maintained by: Tauhid-dev
+Maintained by: Firoz Pathan & Tauhid Huda
